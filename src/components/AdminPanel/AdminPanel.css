@@ -1,0 +1,8 @@
+.AdminPanel {
+    box-sizing: border-box;
+}
+.adminPanel-cont {
+    box-sizing: border-box;
+    margin: auto;
+    padding: 0 5%;
+}
